@@ -1,0 +1,6 @@
+.vscode
+__pypackages__
+.pytest_cache
+__init__.pyc
+client.pyc
+__pycache__

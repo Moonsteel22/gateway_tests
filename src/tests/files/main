@@ -1,0 +1,2 @@
+def handler(event, context):
+    return {"StatusCode": 200, "Headers": event["Headers"], "Body": "empty"}
